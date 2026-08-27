@@ -1,0 +1,20 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables & Secrets
+.env
+
+# Raw and Processed Data Files
+data/raw/*.xml
+data/processed/
+
+# Python Cache
+__pycache__/
+*.pyc
+.pytest_cache/
